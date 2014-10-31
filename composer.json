@@ -1,0 +1,13 @@
+{
+    "name": "jjrumi/helloworld",
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "authors": [
+        {
+            "name": "Juanlu",
+            "email": "jjrumi@gmail.com"
+        }
+    ],
+    "require": {}
+}
